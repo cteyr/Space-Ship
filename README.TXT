@@ -30,3 +30,8 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+Important note:
+*If you want to access the source code of this project, you can download the "Java Decompiler" program that you can find below.
+Program link: http://java-decompiler.github.io/
+
