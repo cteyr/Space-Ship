@@ -2,11 +2,9 @@
 
  Space Ship - Image Project
 
-![Design preview for the Order summary card coding challenge](./project-image/image-project.png)
+![Space Ship](./project-image/image-project.png)
 
- Space Ship - Game Over
-
-![Design preview for the Order summary card coding challenge](./project-image/game-over.png)
+![Space Ship](./project-image/game-over.png)
 
 
 BUILD OUTPUT DESCRIPTION:
