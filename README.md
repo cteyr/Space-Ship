@@ -6,9 +6,8 @@
 
 ![Design preview for the Order summary card coding challenge](./project-image/game-over.png)
 
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+
+BUILD OUTPUT DESCRIPTION:
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
