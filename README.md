@@ -1,3 +1,5 @@
+# Hello everyone, this is my first project done at the university, I hope you enjoy it.
+
 # Space Ship - Image Project
 
 ![Design preview for the Order summary card coding challenge](./project-image/image-project.png)
