@@ -1,3 +1,11 @@
+# Space Ship - Image Project
+
+![Design preview for the Order summary card coding challenge](./project-image/image-project.png)
+
+# Space Ship - Game Over
+
+![Design preview for the Order summary card coding challenge](./project-image/game-over.png)
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
@@ -34,4 +42,3 @@ class name in the manifest Main-Class element.
 Important note:
 * If you want to access the source code of this project, you can download the "Java Decompiler" program that you can find below.
 Program link: http://java-decompiler.github.io/
-
