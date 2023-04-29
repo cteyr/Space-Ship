@@ -1,12 +1,12 @@
-#** Hello everyone, this is my first project done at the university, I hope you enjoy it.**
+**# Hello everyone, this is my first project done at the university, I hope you enjoy it.**
 
 # Space Ship - Image Project
 
-(./project-image/image-project.png)
+![Design preview for the Order summary card coding challenge](./project-image/image-project.png)
 
 # Space Ship - Game Over
 
-(./project-image/game-over.png)
+![Design preview for the Order summary card coding challenge](./project-image/game-over.png)
 
 
 BUILD OUTPUT DESCRIPTION:
