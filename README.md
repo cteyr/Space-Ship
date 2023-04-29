@@ -1,4 +1,4 @@
-# **Hello everyone, this is my first project done at the university, I hope you enjoy it.**
+# <center>Hello everyone, this is my first project done at the university, I hope you enjoy it.</center>
 
 # Space Ship - Image Project
 
