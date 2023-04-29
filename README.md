@@ -1,10 +1,10 @@
-# <center>Hello everyone, this is my first project done at the university, I hope you enjoy it.</center>
+# Hello everyone, this is my first project done at the university, I hope you enjoy it.
 
-# Space Ship - Image Project
+ Space Ship - Image Project
 
 ![Design preview for the Order summary card coding challenge](./project-image/image-project.png)
 
-# Space Ship - Game Over
+ Space Ship - Game Over
 
 ![Design preview for the Order summary card coding challenge](./project-image/game-over.png)
 
